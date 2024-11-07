@@ -1,0 +1,38 @@
+.sidebar{
+    height: 100vh;
+    background-color: #f8f9fa !important;
+    
+}
+.sidebar-brand{
+    margin-right: 4rem;
+}
+.nav_title{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: medium;
+    margin-left: 3.7rem;
+    margin-top: 1rem;
+}
+.newchat{
+    margin-left: 11rem;
+    cursor: pointer;
+    /* margin-top: 0.1rem; */
+}
+.toggle{
+    position: sticky;
+    margin-top: 0.47rem;
+    margin-left: 0.27rem;
+    cursor: pointer;
+}
+.special{
+    /* display: flex; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #d3d3d3;
+     background-color: #f8f9fa;
+}
+.mechanic-ai {
+    margin-left: 0vw !important;
+    font-size: xx-large;
+    margin: 0;
+}
